@@ -1,8 +1,8 @@
 ## Hi there 👋
 
- - 😄 Pronouns: He/Him
- - 🌱 I’m currently learning: Godot Engine, Web Front End stuff. with plans of getting into c/c++ eventually
- - 🔭 I’m currently working on: Probably some random game project in godot that i will abandon in 2 weeks time. I have problems commiting to long term projects.
+ - Pronouns: He/Him
+ - I’m currently learning: Godot Engine, Web Front End stuff. with plans of getting into c/c++ eventually
+ - I’m currently working on: my website
 
  
 <!--
